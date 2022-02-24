@@ -1,8 +1,9 @@
 # Faasm Ecosystem
 
 Faasm is a research project on serverless runtimes. Faasm originated in the
-Large-Scale Data & Systems group from the Imperial College London, but has
-contributors and collaborators among other institutions.
+[Large-Scale Data & Systems](https://lsds.doc.ic.ac.uk/projects/faasm) group
+from the Imperial College London, but has contributors and collaborators
+among other institutions.
 
 ## Faasm Projects
 
