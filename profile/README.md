@@ -14,6 +14,9 @@ for distributed serverless applications
 
 ## Research Dissemination
 
+* [WOSC 2021 - Faabric: Shared Memory and Message Passing for Serverless (Talk)](
+https://www.serverlesscomputing.org/wosc7/demos/d3)
+
 * [ATC 2020 - Faasm: Lightweight Isolation for Efficient Stateful Serverless
 Computing](https://www.usenix.org/conference/atc20/presentation/shillaker)
 
